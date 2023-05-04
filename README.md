@@ -1,1 +1,4 @@
 # NASA-Picture-of-the-day
+The project involves building a web page that retrieves data from NASA's Picture of the Day API. The user can select a date using a form, and the date is sent in the query params to retrieve the corresponding image of the day from the API. The page also displays the current image of the day when it loads.
+The web page allows the user to save their searches to local storage and display their past searches on the page. The past searches are displayed in an unordered list, and the user can click on a past search to fetch the corresponding image from the API and display it on the page.
+To make the page responsive, media queries are added to adjust the layout and styling based on the screen size. Overall, this project combines API integration, local storage, and responsive design to create a useful and engaging web page for users who are interested in exploring NASA's Picture of the Day.
